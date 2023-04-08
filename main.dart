@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:quiz_app/questions.dart';
-import 'ui.dart';
+import 'quiz_ui.dart';
 
 void main() async {
   runApp(MyApp());
